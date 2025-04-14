@@ -1,0 +1,10 @@
+title: My Portfolio
+name: Asher Renaud-Rochon
+email: AR238@myscc.ca
+baseurl: "https://luath.github.io"
+url: "Porfolio"
+
+collections:
+	design:
+		output: true
+	    permalink: /:collection/:path/
