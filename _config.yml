@@ -5,8 +5,6 @@ baseurl: "https://luath.github.io"
 url: "Porfolio"
 
 collections:
-	design:
-		output: true
-	
-	photoshop:
-		output: true
+  design:
+    output: true
+    permalink: /:collection/:path/
